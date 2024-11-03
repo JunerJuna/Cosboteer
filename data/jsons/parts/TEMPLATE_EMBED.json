@@ -1,0 +1,17 @@
+{
+    "title" : "",
+    "description" : "",
+    "color" : [0,0,0],
+    "fields" : [
+        {
+            "name" : "",
+            "value" : "",
+            "inline" : true,
+            "PATH" : ""
+        }
+    ],
+    "hasThumbnail" : true,
+    "thumbnail" : "",
+    "hasImage" : false,
+    "image" : ""
+}

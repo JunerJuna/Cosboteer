@@ -1,0 +1,16 @@
+{
+    "title" : "large reactor",
+    "description" : "large reactor stuff",
+    "color" : [140,0,255],
+    "fields" : [
+        {
+            "name" : "large reactor stats below",
+            "value" : "not yet",
+            "PATH" : "data/jsons/parts/stats/large_reactor.json",
+            "inline" : false
+        }
+    ],
+    "hasThumbnail" : true,
+    "thumbnail" : "https://media.discordapp.net/attachments/1300781187501133925/1300781659481702450/reactor_large.png?ex=6728ae52&is=67275cd2&hm=1251c1707dbc0cb0385ad2592f617c489b4456de21ca18e3d65f639ea14bd1c9&=&format=webp&quality=lossless",
+    "hasImage" : false
+}

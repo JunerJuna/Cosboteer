@@ -1,0 +1,19 @@
+{
+    "stats" : {
+        "general" : {
+            "resources" : [[40,"steel"],[20,"coil"]],
+            "mass" : 40,
+            "cost" : 200,
+            "health" : 4000,
+            "penetration resistance" : 2,
+            "size" : "2x3"
+        },
+        "part specific" : {
+            "firerate" : 0.33
+        },
+        "details" : {
+            "attack cooldown" : 10
+        }
+    },
+    "extra" : "whatever"
+}
